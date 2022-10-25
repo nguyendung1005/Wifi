@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScanWifiTest</string>
+    <string name="get_ssid">Get SSID</string>
+    <string name="scan_wifi">ScanWifi</string>
+</resources>
